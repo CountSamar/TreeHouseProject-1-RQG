@@ -130,7 +130,7 @@ const printQuote = () => {
     return document.getElementById("quote-box").innerHTML = html
  }
 
-
+  setInterval(printQuote, 7000)
 /***
  * click event listener for the print quote button
  * DO NOT CHANGE THE CODE BELOW!!
