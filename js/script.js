@@ -35,6 +35,25 @@ source: "Norman Vincent Peale",
   source: "Caledon Hockley",
   citation: "RMS Titanic",
   year: "1912"
+},
+{
+  quote: "Never believe what you read on the internet just because there is a picture with a quote next to it.",
+  source: "President Abraham Lincoln",
+  year: "1864"
+},
+{
+  quote: "Be bitter, stay angry, and blame everyone!",
+  source: "Axl Rose"
+},
+{
+  quote: "You ever been to a caucus?... No you haven't. You're a lying dog-faced pony soldier.",
+  source: "President Joe Biden"
+},
+{
+  quote: "We're rounding 'em up in a very humane way, in a very nice way. And they're going to be happy because they want to be legalized. And, by the way, I know it doesn't sound nice. But not everything is nice.",
+  source: "President Donald Trump",
+  citation: "60 Minutes",
+  year: "2018"
 }
 ]
 
