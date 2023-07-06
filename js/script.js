@@ -89,7 +89,7 @@ const printQuote = () => {
     if ( randomQuote.citation ) {
       html += `<span class='citation'>${randomQuote.citation}</span>`
     }
-    else if ( randomQuote.year ) {
+    if ( randomQuote.year ) {
       html += `<span class='year'>${randomQuote.year}</span>`
     }
   // 3. Use an if statement to check if the citation property 
